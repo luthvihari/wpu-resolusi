@@ -1,8 +1,13 @@
 Rencana Konten WPU
 
 -javasscript
+ *ES6
+ *Framework Javascript
+  ^ Angular
+  ^React
 -HTML
 -PHP
  *PHP Frameworks
+ ^Laravel
 -Struktur data Dasar
 
