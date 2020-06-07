@@ -2,3 +2,4 @@ WPU RESULUSI
 - Konsisten untuk ngoding 4 jam sehari
 - menyelesaikan dan merapaihkan kodingan
 - membuat platform baru
+- membuat Alat Absensi RFID
