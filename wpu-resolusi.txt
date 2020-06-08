@@ -3,3 +3,4 @@ WPU RESULUSI
 - menyelesaikan dan merapaihkan kodingan
 - membuat platform baru
 - membuat Alat Absensi RFID
+-mempelajari github
